@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "491375536546-a2f0iiegjfg711dvnp0aqnus5up3q56b.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZb8fMAyWkis_ppLHDBUxZPyHDm657O0"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:491375536546:ios:c7ace1ce0c2ca436a6eafb", 
+        "android_client_info": {
+          "package_name": "th.ac.su.ict.wsnp2020.tw12"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "project-test-01-ae607.appspot.com", 
+    "project_id": "project-test-01-ae607", 
+    "firebase_url": "https://project-test-01-ae607.firebaseio.com", 
+    "project_number": "491375536546"
+  }
+}
